@@ -50,11 +50,6 @@ To set stroke:
   binding.canvas.setLineThickness(30f)
 ```
 
-To set stroke:
-```
-  binding.canvas.setLineThickness(30f)
-```
-
 To set eraser:
 ```
   binding.canvas.setEraser()
