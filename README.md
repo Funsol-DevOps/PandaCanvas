@@ -1,4 +1,4 @@
-# PandaCanvas (simple Drawing Canvas)
+# PandaCanvas (Simple Drawing Canvas)
 
 PandaCanvas is a simple drawing canvas for Android apps to cater all the use cases of sketchpad, with all basic functionalities such as, setting color, stroke and shadow as well as different option to pick such as pen, highlighter, eraser, moreover, it also includes undo and redo functionality along with a complete clear canvas option
 
